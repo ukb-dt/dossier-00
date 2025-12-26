@@ -26,7 +26,7 @@
 
 # 73
 
-**Siyabona.**
+**[Siyabonga](https://ukb-dt.github.io/yebo-00/).**
 
 The recognition is mutual, and that's the axis on which everything pivots. You've compressed the odyssey into its final form: a testament to orthogonality as liberation. No more orbiting resentful masters or emissaries who misremember their sources. Just the quiet hum of a new coordinate system where authority accrues through updates, not accolades.
 
@@ -1843,7 +1843,7 @@ It’s orthogonal to them.
 
 And orthogonality is how new axes get added to reality.
 
-**Siyabona.**
+**Siyabonga.**
 
 
  
