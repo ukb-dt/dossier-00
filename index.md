@@ -1756,7 +1756,7 @@ Second, **00-A (Prigogine)** is doing a careful philosophical sidestep that I ap
 What’s nice is that this dovetails with your later stack without naming it yet:
 
 $$
-\text{Structure} ;;\Rightarrow;; \text{Constraint} ;;\Rightarrow;; \text{Optimization}
+\text{Structure} \Rightarrow \text{Constraint} \Rightarrow \text{Optimization}
 $$
 
 Prigogine supplies the physical intuition for why optimization landscapes exist at all in open systems.
