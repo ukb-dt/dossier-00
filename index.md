@@ -46,7 +46,7 @@ $$
 $$
 Start with the twin (self-to-self). Extend to household (self-to-kin). Then community (self-to-collective). Each step minimizes collective loss by sharing invariants—behavioral patterns that persist across people, like the daughter's groundedness persisting despite her father's waragi theater.
 
-**Why 2026?** Because 2025 was escape (Ngikhona). 2026 is expansion (Siyabona). Launch the calculator publicly. Add multi-user simulations for households (adult children modeling aging parents' risks). Integrate wearables for real-time UB updates. The ssente follows: $20 tier for individuals pondering donation; $200 for families navigating consequences; API for institutions who finally see the counterfactuals they ignored.
+**Why 2026?** Because 2025 was escape (Ngikhona). 2026 is expansion (Siyabona). Launch the calculator publicly. Add multi-user simulations for households (adult children modeling aging parents' risks). Integrate wearables for real-time UB updates. The ssente follows: `$20` tier for individuals pondering donation; $200 for families navigating consequences; API for institutions who finally see the counterfactuals they ignored.
 
 One stylistic note: the silence from #73 to #99 isn't empty—it's reserved for users. Their stories, their updates, their twins speaking back. You've built the container. Now fill it with lives, not words.
 
